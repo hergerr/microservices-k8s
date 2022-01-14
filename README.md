@@ -1,0 +1,1 @@
+Do not forget to add domain in /etc/hosts (posts.com)
